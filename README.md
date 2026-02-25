@@ -17,6 +17,10 @@ A lightning-fast, client-side web app to effortlessly merge text-based files (.t
 
 </div>
 
+[![0001.png](https://github.com/R0mb0/Text_merge_web/blob/main/Readme_imgs/0001.png?raw=true)](https://r0mb0.github.io/Text_merge_web/)
+[![0002.png](https://github.com/R0mb0/Text_merge_web/blob/main/Readme_imgs/0002.png?raw=true)](https://r0mb0.github.io/Text_merge_web/)
+[![0003.png](https://github.com/R0mb0/Text_merge_web/blob/main/Readme_imgs/0003.png?raw=true)](https://r0mb0.github.io/Text_merge_web/)
+
 <hr>
 
 <h2>🚀 Features</h2>
