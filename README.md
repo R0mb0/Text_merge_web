@@ -6,6 +6,12 @@
 A lightning-fast, client-side web app to effortlessly merge text-based files (.txt, .md, .csv, code snippets) into a single document. 100% private, runs entirely in your browser with zero server uploads!
 </p>
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f36a17f78f7c43b397cd99134fcb7453)](https://app.codacy.com/gh/R0mb0/Text_merge_web/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![pages-build-deployment](https://github.com/R0mb0/Text_merge_web/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/R0mb0/Text_merge_web/actions/workflows/pages/pages-build-deployment)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/HTML-to-SVG-converter)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/R0mb0/HTML-to-SVG-converter)
+[![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
+[![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](http://paypal.me/R0mb0)
 
 <h2><a href="https://r0mb0.github.io/Text_merge_web/">👉 Click here to test the app! 👈</a></h2>
 
